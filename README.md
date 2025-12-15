@@ -1,5 +1,7 @@
 # DeepCode Playground
 
+このリポジトリは、DeepCodeを試しに動かしてみるためのリポジトリです。
+
 ```bash
 # 🚀 Install DeepCode package directly
 pip install deepcode-hku

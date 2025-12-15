@@ -14,3 +14,6 @@ wheels/
 
 # DeepCode secret config
 mcp_agent.secrets.yaml
+
+# Node.js
+node_modules/

@@ -103,7 +103,7 @@ mcp:
 # LLM Provider Priority (选择使用哪个LLM / Choose which LLM to use)
 # Options: "anthropic", "google", "openai"
 # If not set or provider unavailable, will fallback to first available provider
-llm_provider: "google"  # 设置为 "google", "anthropic", 或 "openai"
+llm_provider: "anthropic"  # 设置为 "google", "anthropic", 或 "openai"
 
 openai:
   base_max_tokens: 40000
