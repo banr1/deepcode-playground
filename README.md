@@ -2,6 +2,10 @@
 
 このリポジトリは、DeepCodeを試しに動かしてみるためのリポジトリです。
 
+``````markdown
+
+### 📦 Step 1: Installation
+
 ```bash
 # 🚀 Install DeepCode package directly
 pip install deepcode-hku
@@ -33,3 +37,14 @@ curl -O https://raw.githubusercontent.com/HKUDS/DeepCode/main/mcp_agent.secrets.
 # - enabled: true/false (whether to use intelligent document segmentation)
 # - size_threshold_chars: 50000 (document size threshold to trigger segmentation)
 ```
+
+### ⚡ Step 2: Launch Application
+
+```bash
+# 🌐 Launch web interface directly
+deepcode
+
+# The application will automatically start at http://localhost:8501
+```
+
+``````

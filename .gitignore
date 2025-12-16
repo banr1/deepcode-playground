@@ -17,3 +17,6 @@ mcp_agent.secrets.yaml
 
 # Node.js
 node_modules/
+
+# Log
+logs/
